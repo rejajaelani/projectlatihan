@@ -76,7 +76,7 @@ function App(): JSX.Element {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="Abdul Reja Jaelani">
+          <Section title="test">
             Read the docs to discover what to do next:
           </Section>
           <Section title="See Your Changes">
